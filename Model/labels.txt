@@ -1,0 +1,16 @@
+0 Straw
+1 Cardboard
+2 Paper
+3 Cloth
+4 Lint
+5 Kitchen Sponge
+6 Hair Clip
+7 Shoes
+8 CFL
+9 Car Battery
+10 Syringe
+11 Camera Lens
+12 Apple
+13 Watermelon
+14 Cheese
+15 Meat
